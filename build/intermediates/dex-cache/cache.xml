@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/GithubProjects/LoadingDialogDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="762757683d6203f7e8a2259358a4c8f68dc5ffcd">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/GithubProjects/LoadingDialogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a244f6e8dc0cf4c6668158e8947f5275d8ae711d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangqi/MyDocument/Projects/GithubProjects/LoadingDialogDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhangqi/MyDocument/Projects/GithubProjects/LoadingDialogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_93b019203b9391616a34fc440794695df7372460/classes.dex" />
+    </item>
+
+</items>
