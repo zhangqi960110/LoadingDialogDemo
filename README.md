@@ -3,7 +3,7 @@ Android简单的Loading Dialog实现
 
 大家在使用APP的时候都会遇到网络不好的情况，如果没有加载条之类的，会感觉APP体验很差；所以一般都会有一个loading过程，告诉用户正在请求数据；
 下面我们先看一下实现效果
-![image](https://github.com/zhangqi960110/LoadingDialogDemo/raw/master/pictures/loading.gif)
+![image](https://github.com/zhangqi960110/LoadingDialogDemo/raw/master/loading.gif)
 
 在这里我只是简单的讲解一下思路：
 
